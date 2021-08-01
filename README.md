@@ -12,7 +12,7 @@
   </a>
 
   <a href = "mailto:christianprado.contato@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30">
+    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" target="_blank" height="30">
   </a>
 </p>
 
