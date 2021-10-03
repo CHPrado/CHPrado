@@ -71,7 +71,7 @@
 <h1 align="center">Gamer on free time</h1>
 <h3 align="center">Follow me on</h3>
 <p align="center">
-  <a href="https://www.twitch.tv/chmage2" target="blank">
+  <a href="https://www.twitch.tv/chmage" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Twitch_logo_%28wordmark_only%29.svg" alt="chmage" height="60" />
   </a>
 </p>
