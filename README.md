@@ -5,17 +5,6 @@
   <img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/christianprados" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianprados" height="30" width="40" />
-  </a>
-
-  <a href = "mailto:christianprado.contato@gmail.com">
-    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" target="_blank" height="30">
-  </a>
-</p>
-
 <h3 align="left">Main Stack:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
@@ -60,11 +49,22 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chprado&show_icons=true&locale=en" alt="chprado" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chprado&show_icons=true&theme=dark&locale=en" alt="chprado" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chprado&show_icons=true&locale=en&layout=compact" alt="chprado" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chprado&show_icons=true&theme=dark&locale=en&layout=compact" alt="chprado" />
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/christianprados" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="christianprados" height="30"/>
+  </a>
+
+  <a href = "mailto:christianprado.contato@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30">
+  </a>
 </p>
 
 <br>
