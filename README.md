@@ -58,7 +58,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/CHPrado" target="blank">
+  <a href="https://linkedin.com/in/CHPrado" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="christianprados" height="30"/>
   </a>
 
@@ -71,7 +71,7 @@
 <h1 align="center">Gamer on free time</h1>
 <h3 align="center">Follow me on</h3>
 <p align="center">
-  <a href="https://www.twitch.tv/chmage" target="blank">
+  <a href="https://www.twitch.tv/chmage" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Twitch_logo_%28wordmark_only%29.svg" alt="chmage" height="60" />
   </a>
 </p>
